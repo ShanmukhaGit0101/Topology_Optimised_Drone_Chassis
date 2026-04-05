@@ -143,10 +143,9 @@ The project includes multiple iterations:
 
 ## 👨‍💻 Author
 
-**Shanmukha Vinayak M**
-**Karna Kranthi Koushik Reddy**
-Automation & Robotics Engineering Student
-Amrita Vishwa Vidyapeetham
+*Shanmukha Vinayak M
+*Karna Kranthi Koushik Reddy
+
 
 ---
 
