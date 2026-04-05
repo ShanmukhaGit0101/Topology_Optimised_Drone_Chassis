@@ -143,8 +143,7 @@ The project includes multiple iterations:
 
 ## 👨‍💻 Author
 
-*Shanmukha Vinayak M
-*Karna Kranthi Koushik Reddy
+Shanmukha Vinayak M, Kranthi Koushik Reddy
 
 
 ---
