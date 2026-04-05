@@ -119,16 +119,7 @@ The objective is to create a structurally efficient drone frame that:
 
 ---
 
-## 📁 Repository Structure
 
-* `/cad` → CAD files (Fusion 360, STEP, STL)
-* `/simulations` → generative design & stress results
-* `/bom` → bill of materials
-* `/electronics` → wiring diagrams & components
-* `/manufacturing` → print settings and notes
-* `/images` → renders and design iterations
-
----
 
 ## 🔄 Design Iterations
 
